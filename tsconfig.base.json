@@ -8,7 +8,7 @@
 		"module": "esnext",
 		"moduleResolution": "node",
 		"types": [
-			"@cloudflare/workers-types",
+			"@khulnasoft/workers-types",
 			"vitest-environment-miniflare/globals"
 		],
 		"resolveJsonModule": true,

@@ -15,7 +15,7 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20231002.0",
+    "@khulnasoft/workers-types": "^4.20221111.1",
     "cross-env": "^7.0.3",
     "eslint": "^8.38.0",
     "miniflare": "3.20231030.2",
