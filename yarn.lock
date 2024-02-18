@@ -1267,7 +1267,7 @@ isexe@^2.0.0:
   resolved "https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
-itty-router@^4.0.27:
+itty-router@^4.0.9:
   version "4.0.27"
   resolved "https://registry.yarnpkg.com/itty-router/-/itty-router-4.0.27.tgz#ea6ffcf0482b2e4ce56e07769ac605f52d84d22b"
   integrity sha512-Q3/GOE2EJvyu3hhxGN3WDWh3QNg4v7h1KFx/jSLcIOOkpSI1jUFTgGefEESXon4j5YwqCIf0DEemjiVAFSBiUw==
@@ -1398,7 +1398,7 @@ mimic-fn@^4.0.0:
 
 miniflare@3.20231030.2:
   version "3.20231030.2"
-  resolved "https://registry.npmjs.org/miniflare/-/miniflare-3.20231030.2.tgz"
+  resolved "https://registry.yarnpkg.com/miniflare/-/miniflare-3.20231030.2.tgz#989a3156f0a45faeb2adeab7f3ebb17e16bad3d6"
   integrity sha512-+DYdMqWlUaY4wBylIjewNu8OVsPFquYjQkxoSb2jGIMBmlKaef65Hn2Bu8sub5tQzQ8tLO0FRklmD2Upx0HCCQ==
   dependencies:
     acorn "^8.8.0"
