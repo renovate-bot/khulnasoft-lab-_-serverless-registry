@@ -17,7 +17,7 @@
   "devDependencies": {
     "@khulnasoft/workers-types": "^4.20221111.1",
     "cross-env": "^7.0.3",
-    "eslint": "^8.38.0",
+    "eslint": "^9.0.0",
     "miniflare": "3.20240419.0",
     "typescript": "^5.0.0",
     "vitest": "^1.0.0",
